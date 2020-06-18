@@ -1,4 +1,4 @@
-git init
+git git init
 git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/divyamdr/CPP_CODE_S.git
